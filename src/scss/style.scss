@@ -1,6 +1,13 @@
-@import './cart.scss' ;
-@import './header.scss' ;
-@import './store.scss' ;
-@import './checkout.scss' ;
-@import './footer.scss'; 
-@import './toast.scss' ;
+body {
+  font-family: "SF Display Pro", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import "./cart.scss";
+@import "./header.scss";
+@import "./store.scss";
+@import "./checkout.scss";
+@import "./footer.scss";
+@import "./toast.scss";
